@@ -35,3 +35,9 @@ pip install -r requirements.txt
 
 # 3. Jalankan aplikasi
 streamlit run app.py
+
+## Anggota Tim
+221110026 - Hendrik Chandra Kasih
+221110248 - Mhd Fadlurrahman Suhaemy
+221113072 - Ribca Juliana Panjaitan
+
