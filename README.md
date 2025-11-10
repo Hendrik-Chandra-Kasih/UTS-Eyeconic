@@ -15,7 +15,7 @@ Live Demo: [https://uts-eyeconic-sm8vbejuehewfb56s8j7vv.streamlit.app/](https://
 - Deployment: Streamlit Community Cloud
 
 
-🚀 Cara Menjalankan Lokal (Opsional)
+Cara Menjalankan Lokal (Opsional)
 Jika ingin menjalankan di komputer sendiri:
 
 
