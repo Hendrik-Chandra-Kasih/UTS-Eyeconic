@@ -1,5 +1,10 @@
 # 📊 Analisis Sentimen Kebijakan Kenaikan Gaji DPR
 
+## Anggota Tim
+221110026 - Hendrik Chandra Kasih
+221110248 - Mhd Fadlurrahman Suhaemy
+221113072 - Ribca Juliana Panjaitan
+
 Aplikasi berbasis web untuk mengklasifikasikan sentimen publik terhadap kebijakan kenaikan gaji DPR menggunakan **Naive Bayes**.
 
 🔗 **Live Demo**: [https://uts-eyeconic-sm8vbejuehewfb56s8j7vv.streamlit.app/](https://uts-eyeconic-sm8vbejueh6j7vv.streamlit.app/)
@@ -36,8 +41,5 @@ pip install -r requirements.txt
 # 3. Jalankan aplikasi
 streamlit run app.py
 
-## Anggota Tim
-221110026 - Hendrik Chandra Kasih
-221110248 - Mhd Fadlurrahman Suhaemy
-221113072 - Ribca Juliana Panjaitan
+
 
