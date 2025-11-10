@@ -1,9 +1,9 @@
 # 📊 Analisis Sentimen Kebijakan Kenaikan Gaji DPR
 
 ## Anggota Tim
-221110026 - Hendrik Chandra Kasih
-221110248 - Mhd Fadlurrahman Suhaemy
-221113072 - Ribca Juliana Panjaitan
+- 221110026 - Hendrik Chandra Kasih
+- 221110248 - Mhd Fadlurrahman Suhaemy
+- 221113072 - Ribca Juliana Panjaitan
 
 Aplikasi berbasis web untuk mengklasifikasikan sentimen publik terhadap kebijakan kenaikan gaji DPR menggunakan **Naive Bayes**.
 
